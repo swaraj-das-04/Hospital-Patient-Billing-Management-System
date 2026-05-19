@@ -55,16 +55,8 @@ The **Hospital Patient Billing Management System** helps hospitals efficiently m
 
 ## 🔹 Home Dashboard
 
+<img width="1600" height="948" alt="dash" src="https://github.com/user-attachments/assets/c2717bf0-7a9c-4e70-b972-4f3a20a647ef" />
 
-
-```md
-<img width="1600" height="948" alt="image" src="https://github.com/user-attachments/assets/18a0f953-8e02-4c44-a091-bc929470e5ab" />
-
-```
-
-```
-
----
 
 ## 🔹 Hospital Dashboard
 
@@ -93,7 +85,7 @@ Dashboard Analytics
           ↓
 Report Generation
 ```
-
+---
 ### Step-by-Step Process
 
 1. User enters patient details.
